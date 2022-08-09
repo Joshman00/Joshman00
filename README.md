@@ -16,7 +16,7 @@ I'm a Software Engineer, Content Creator, and Community Engineer who currently w
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshman00&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Joshman00&show_icons=true&include_all_commits=true&hide_border=true" alt="Joshman's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshman00&langs_count=8&layout=compact&hide_border=true" alt="Joshman's GitHub Stats" /> |
 | ------------- | ------------- |
 <!--
 **Joshman00/Joshman00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
